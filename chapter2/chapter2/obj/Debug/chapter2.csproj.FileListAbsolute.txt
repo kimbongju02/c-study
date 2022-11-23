@@ -1,0 +1,10 @@
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\chapter2\chapter2\obj\Debug\chapter2.csproj.AssemblyReference.cache
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\chapter2\chapter2\obj\Debug\chapter2.csproj.SuggestedBindingRedirects.cache
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\chapter2\chapter2\obj\Debug\chapter2.Properties.Resources.resources
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\chapter2\chapter2\obj\Debug\chapter2.csproj.GenerateResource.cache
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\chapter2\chapter2\obj\Debug\chapter2.csproj.CoreCompileInputs.cache
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\chapter2\chapter2\bin\Debug\chapter2.exe.config
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\chapter2\chapter2\bin\Debug\chapter2.exe
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\chapter2\chapter2\bin\Debug\chapter2.pdb
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\chapter2\chapter2\obj\Debug\chapter2.exe
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\chapter2\chapter2\obj\Debug\chapter2.pdb

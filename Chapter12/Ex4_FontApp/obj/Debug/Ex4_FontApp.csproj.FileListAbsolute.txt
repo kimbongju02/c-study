@@ -1,0 +1,11 @@
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter12\Ex4_FontApp\bin\Debug\Ex4_FontApp.exe.config
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter12\Ex4_FontApp\bin\Debug\Ex4_FontApp.exe
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter12\Ex4_FontApp\bin\Debug\Ex4_FontApp.pdb
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter12\Ex4_FontApp\obj\Debug\Ex4_FontApp.csproj.AssemblyReference.cache
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter12\Ex4_FontApp\obj\Debug\Ex4_FontApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter12\Ex4_FontApp\obj\Debug\Ex4_FontApp.Form1.resources
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter12\Ex4_FontApp\obj\Debug\Ex4_FontApp.Properties.Resources.resources
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter12\Ex4_FontApp\obj\Debug\Ex4_FontApp.csproj.GenerateResource.cache
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter12\Ex4_FontApp\obj\Debug\Ex4_FontApp.csproj.CoreCompileInputs.cache
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter12\Ex4_FontApp\obj\Debug\Ex4_FontApp.exe
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter12\Ex4_FontApp\obj\Debug\Ex4_FontApp.pdb
