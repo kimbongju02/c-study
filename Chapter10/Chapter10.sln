@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2_Mouse", "Ex2_Mouse\Ex2_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3_10_6_3", "Ex3_10_6_3\Ex3_10_6_3.csproj", "{BEDFCDA8-DA0E-4F10-9CAA-87C679D1D88C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex4_10_6_6", "Ex4_10_6_6\Ex4_10_6_6.csproj", "{8762027B-FC7C-4579-B386-5372B954C979}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BEDFCDA8-DA0E-4F10-9CAA-87C679D1D88C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEDFCDA8-DA0E-4F10-9CAA-87C679D1D88C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEDFCDA8-DA0E-4F10-9CAA-87C679D1D88C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8762027B-FC7C-4579-B386-5372B954C979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8762027B-FC7C-4579-B386-5372B954C979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8762027B-FC7C-4579-B386-5372B954C979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8762027B-FC7C-4579-B386-5372B954C979}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
