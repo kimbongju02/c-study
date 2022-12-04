@@ -18,9 +18,19 @@ namespace Ex5_10_6_7
         }
 
         private void Form1_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            if (!(char.IsDigit(e.KeyChar) || e.KeyChar == '-'))
+        {             //숫자만 입력되도록 필터링             
+            if (!(char.IsDigit(e.KeyChar) || e.KeyChar == Convert.ToChar(Keys.Back)))    //숫자와 백스페이스를 제외한 나머지를 바로 처리             
+            {
                 e.Handled = true;
+            }
+        }
+
+        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!(char.IsDigit(e.KeyChar) || e.KeyChar == Convert.ToChar("-")))    //숫자와 백스페이스를 제외한 나머지를 바로 처리             
+            {
+                e.Handled = true;
+            }
         }
     }
 }
