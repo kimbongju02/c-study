@@ -26,5 +26,10 @@ namespace Ex5_10_6_7
                 e.Handled = true;
             }
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

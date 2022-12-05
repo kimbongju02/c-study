@@ -49,5 +49,10 @@ namespace Ex3_10_6_3
         {
             e.Graphics.DrawRectangle(Pens.Black, rectMouse);
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
