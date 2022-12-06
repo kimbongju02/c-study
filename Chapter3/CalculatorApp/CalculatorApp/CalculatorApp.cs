@@ -27,7 +27,7 @@ class CalculatorApp
                 r=x/y;
                 Console.WriteLine(x+" / "+y+" = "+r);
                 break;
-            efault:
+            default:
                 Console.WriteLine("Illegal operator ");
                 break;
         }
