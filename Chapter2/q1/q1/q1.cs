@@ -13,6 +13,7 @@ class q1
         Console.Write("Enter c : ");
         c = Int32.Parse(Console.ReadLine());
         l = (a + b + c) / 2;
+        s = Math.Sqrt(l * (l - a) * (l - b) * (l - c));
         Console.WriteLine($"{s}");
     }
 }
