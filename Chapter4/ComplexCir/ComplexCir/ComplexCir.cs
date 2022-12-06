@@ -8,7 +8,7 @@ namespace Chapter4
 {
     class Complex
     {
-        public doule numerator;
+        public double numerator;
         public double denominator;
         public Complex(int numerator = 0, int denominator = 0)
         {
