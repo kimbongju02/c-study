@@ -5,7 +5,7 @@ class IfElseStApp
     {
         int n;
         Console.Write("Enter a number = ");
-        n = Conole.Read() - '0';
+        n = Console.Read() - '0';
         if (n % 2 == 0)
             Console.WriteLine(n + " is an even number.");
         else
