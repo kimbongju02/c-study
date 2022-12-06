@@ -7,7 +7,7 @@ class Program
         int i;
         if (args.Length == 0)
         {
-            Consol.WriteLine("명령행 인수는 없습니다.");
+            Console.WriteLine("명령행 인수는 없습니다.");
         }
         else
         {
