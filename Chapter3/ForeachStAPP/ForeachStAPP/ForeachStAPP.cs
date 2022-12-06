@@ -5,6 +5,6 @@ class ForeachStAPP
     {
         string[] color = { "red", "green", "blue" };
         foreach (string s in color)
-            onsole.WriteLine(s);
+            Console.WriteLine(s);
     }
 }
