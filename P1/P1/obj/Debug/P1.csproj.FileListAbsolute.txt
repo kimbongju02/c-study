@@ -1,0 +1,8 @@
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\P1\P1\bin\Debug\P1.exe.config
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\P1\P1\bin\Debug\P1.exe
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\P1\P1\bin\Debug\P1.pdb
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\P1\P1\obj\Debug\P1.csproj.AssemblyReference.cache
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\P1\P1\obj\Debug\P1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\P1\P1\obj\Debug\P1.csproj.CoreCompileInputs.cache
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\P1\P1\obj\Debug\P1.exe
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\P1\P1\obj\Debug\P1.pdb

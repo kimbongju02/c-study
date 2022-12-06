@@ -1,8 +1,0 @@
-C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\프로젝트\code\ProjectCode\FinalTest\Problem2\bin\Debug\Problem2.exe.config
-C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\프로젝트\code\ProjectCode\FinalTest\Problem2\bin\Debug\Problem2.exe
-C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\프로젝트\code\ProjectCode\FinalTest\Problem2\bin\Debug\Problem2.pdb
-C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\프로젝트\code\ProjectCode\FinalTest\Problem2\obj\Debug\Problem2.csproj.AssemblyReference.cache
-C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\프로젝트\code\ProjectCode\FinalTest\Problem2\obj\Debug\Problem2.csproj.SuggestedBindingRedirects.cache
-C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\프로젝트\code\ProjectCode\FinalTest\Problem2\obj\Debug\Problem2.csproj.CoreCompileInputs.cache
-C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\프로젝트\code\ProjectCode\FinalTest\Problem2\obj\Debug\Problem2.exe
-C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\프로젝트\code\ProjectCode\FinalTest\Problem2\obj\Debug\Problem2.pdb

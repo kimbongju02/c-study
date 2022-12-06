@@ -1,8 +1,0 @@
-C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\MiddleTest\midT\bin\Debug\midT.exe.config
-C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\MiddleTest\midT\bin\Debug\midT.exe
-C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\MiddleTest\midT\bin\Debug\midT.pdb
-C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\MiddleTest\midT\obj\Debug\midT.csproj.AssemblyReference.cache
-C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\MiddleTest\midT\obj\Debug\midT.csproj.SuggestedBindingRedirects.cache
-C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\MiddleTest\midT\obj\Debug\midT.csproj.CoreCompileInputs.cache
-C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\MiddleTest\midT\obj\Debug\midT.exe
-C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\MiddleTest\midT\obj\Debug\midT.pdb
