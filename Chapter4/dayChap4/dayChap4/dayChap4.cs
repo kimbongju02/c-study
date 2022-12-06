@@ -9,7 +9,7 @@ namespace Chapter4
 {
     class Date
     {
-        int ay,month, year;
+        int day,month, year;
         DateTime date;
         public Date(int yy=0, int mm=0, int dd=0)
         {
