@@ -11,7 +11,7 @@ namespace Chapter3
     {
         static void Main(string[] args)
         {
-            if (args.ength == 0)
+            if (args.Length == 0)
             {
                 Console.WriteLine("명령행 인수는 없습니다.");
             }
