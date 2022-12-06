@@ -11,7 +11,7 @@ namespace Chapter4
     class Complex {
         public double real;
         public double image;
-        public Coplex(int real=0, int image=0)
+        public Complex(int real=0, int image=0)
         {
             this.real= real;
             this.image=image;
