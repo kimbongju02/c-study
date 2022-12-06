@@ -9,7 +9,7 @@ class SwitchWithString
         {
             case "Sunday": Console.WriteLine(1); break;
             case "Monday": Console.WriteLine(2); break;
-            case Tuesday": Console.WriteLine(3); break;
+            case "Tuesday": Console.WriteLine(3); break;
             case "Wednesday": Console.WriteLine(4); break;
             case "Thursday": Console.WriteLine(5); break;
             case "Friday": Console.WriteLine(6); break;
