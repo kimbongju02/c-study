@@ -9,6 +9,6 @@ class ForStApp
         n = Console.Read() - '0';
         for (i = 1; i <= n; ++i)
             h = h + 1/(double)i;
-        Cnsole.WriteLine("n = {0}, h = {1}", n, h);
+        Console.WriteLine("n = {0}, h = {1}", n, h);
     }
 }
