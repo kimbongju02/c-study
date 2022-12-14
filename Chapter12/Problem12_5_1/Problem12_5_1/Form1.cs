@@ -35,21 +35,44 @@ namespace Problem12_5_1
 
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
-            e.Graphics.SmoothingMode = SmoothingMode.AntiAlias;
-
             if (this.pointList.Count < 2)
             {
                 return;
             }
 
-            if(radioButton1.Checked == true)
-                e.Graphics.DrawLines(Pens.Black, this.pointList.ToArray());
-            else if(radioButton2.Checked == true)
-                e.Graphics.DrawPolygon(Pens.Black, this.pointList.ToArray());
-            else if(radioButton3.Checked == true)
-                e.Graphics.DrawCurve(Pens.Black, this.pointList.ToArray());
+
+            if (radioButton1.Checked)
+                e.Graphics.DrawLines(Pens.Black, this.pointList.ToArray<Point>());
+            else if (radioButton2.Checked)
+                e.Graphics.DrawPolygon(Pens.Black, this.pointList.ToArray<Point>());
+            else if (radioButton3.Checked)
+                e.Graphics.DrawCurve(Pens.Black, this.pointList.ToArray<Point>());
             else
-                e.Graphics.DrawClosedCurve(Pens.Black, this.pointList.ToArray());
+            {
+                if (pointList.Count < 3)
+                    return;
+                e.Graphics.DrawClosedCurve(Pens.Black, pointList.ToArray<Point>());
+            }
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            Refresh();
+        }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        {
+            Refresh();
+        }
+
+        private void radioButton3_CheckedChanged(object sender, EventArgs e)
+        {
+            Refresh();
+        }
+
+        private void radioButton4_CheckedChanged(object sender, EventArgs e)
+        {
+            Refresh();
         }
     }
 }
