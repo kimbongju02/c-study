@@ -34,6 +34,7 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.fontDialog1 = new System.Windows.Forms.FontDialog();
             this.fontsize = new System.Windows.Forms.NumericUpDown();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             ((System.ComponentModel.ISupportInitialize)(this.fontsize)).BeginInit();
             this.SuspendLayout();
             // 
@@ -62,13 +63,16 @@
             this.fontBox.Name = "fontBox";
             this.fontBox.Size = new System.Drawing.Size(121, 23);
             this.fontBox.TabIndex = 2;
+            this.fontBox.SelectedIndexChanged += new System.EventHandler(this.fontBox_SelectedIndexChanged);
             // 
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(117, 111);
+            this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(459, 25);
             this.textBox1.TabIndex = 5;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // fontsize
             // 
@@ -81,6 +85,7 @@
             0,
             0,
             0});
+            this.fontsize.ValueChanged += new System.EventHandler(this.fontsize_ValueChanged);
             // 
             // Form1
             // 
@@ -110,6 +115,7 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.FontDialog fontDialog1;
         private System.Windows.Forms.NumericUpDown fontsize;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
 

@@ -21,7 +21,6 @@ namespace problem12_5_5
         public Form1()
         {
             InitializeComponent();
-
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -36,10 +35,26 @@ namespace problem12_5_5
 
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
+            StringFormat stringFormat = new StringFormat();
+            RectangleF rectF1 = new RectangleF(117, 130, 400, 400);
             Graphics g = CreateGraphics();
             Font f = new Font(fontBox.Text, (float)fontsize.Value, FontStyle.Regular);
-            g.DrawString(textBox1.Text, f, Brushes.Black, 117, 130);
-            g.Dispose();
+            g.DrawString(textBox1.Text, f, Brushes.Black, rectF1);
+        }
+
+        private void fontBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            Invalidate();
+        }
+
+        private void fontsize_ValueChanged(object sender, EventArgs e)
+        {
+            Invalidate();
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            Invalidate();
         }
     }
 }
