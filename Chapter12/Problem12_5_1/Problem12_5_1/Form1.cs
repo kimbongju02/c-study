@@ -41,13 +41,14 @@ namespace Problem12_5_1
             {
                 return;
             }
+
             if(radioButton1.Checked == true)
                 e.Graphics.DrawLines(Pens.Black, this.pointList.ToArray());
             else if(radioButton2.Checked == true)
                 e.Graphics.DrawPolygon(Pens.Black, this.pointList.ToArray());
             else if(radioButton3.Checked == true)
                 e.Graphics.DrawCurve(Pens.Black, this.pointList.ToArray());
-            else if(radioButton4.Checked == true)
+            else
                 e.Graphics.DrawClosedCurve(Pens.Black, this.pointList.ToArray());
         }
     }
