@@ -21,6 +21,7 @@ namespace problem9_6_3
         {
             if (radioButton1.Checked) {
                 Form2 form2 = new Form2();
+                form2.ShowDialog(); //모달 방식으로 띄우기
             }
             if (radioButton2.Checked)
             {
