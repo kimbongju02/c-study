@@ -44,5 +44,12 @@ namespace Problem2
             }
             prod = result_temp;
         }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            ThreadApp obj = new ThreadApp();//객체 생성
+            Thread t = new Thread(obj.threadProd);//델리게이트 생성없이 스레드객체 생성
+            t.Start(args[0]);//스레드 생성
 
-}
