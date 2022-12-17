@@ -29,6 +29,14 @@ namespace midT
             Console.Write("Second input data => ");
             b = double.Parse(Console.ReadLine());
 
+            Add_Mul addMul = new Add_Mul();
+            Calc_Delegate calcDelegate = addMul.Calc_Add;//델리게이트 선언
+            calcDelegate = addMul.Calc_Add;//Calc_Add 추가
+            sum = calcDelegate(a, b);
+            Console.WriteLine($"ADD : {a}+{b}={sum}");
+            calcDelegate += addMul.Calc_Mul;//Calc_Mul 추가
+            mul = calcDelegate(a, b);
+            Console.WriteLine($"MUL : {a}*{b}={mul}");
         }
     }
 }
