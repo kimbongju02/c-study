@@ -29,5 +29,11 @@ namespace Problem2
                 prod = value;
             }
         }
+        public void threadProd(object seed)//스레드 몸체
+        {
+            //명령행 인수의 값을 시드로 사용하니 args[0]의 값을 rnd_seed에 대입
+            int rnd_seed = Convert.ToInt32(seed); ;
+            Random rndSeed = new Random(rnd_seed);//정해진 시드로 랜덤값 생성
+            int result_temp = 1;//곱셈의 결과값 저장
 
 }
