@@ -11,5 +11,8 @@ namespace midT
         public int a;
         public int b;
     }
+    internal class Test2
+    {
 
+    }
 }
