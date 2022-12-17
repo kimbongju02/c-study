@@ -21,5 +21,14 @@ namespace Problem4
         {
             private int[] rnd_data = new int[4];
             private int prod;
+            public int this[int index]
+            {
+                get { return rnd_data[index]; }
+                set
+                {
+                    rnd_data[index] = value;
+                }
+            }
 
+    }
 }
