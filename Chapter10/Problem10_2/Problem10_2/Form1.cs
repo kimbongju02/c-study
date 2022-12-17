@@ -19,10 +19,10 @@ namespace Ex2_Mouse
             InitializeComponent();
         }
 
+        private void Form1_Load(object sender, EventArgs e)
         {
             this.MouseWheel += new MouseEventHandler(this.Form1_MouseWheel);
         }
-        private void Form1_MouseWheel(object sender, MouseEventArgs e)
         {
             textBox1.Text = (e.Delta > 0 ? num++ : num--).ToString();
         }
