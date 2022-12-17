@@ -29,6 +29,13 @@ namespace Problem4
                     rnd_data[index] = value;
                 }
             }
+            public int PROD
+            {
+                get { return prod; }
+                set
+                {
+                    prod = value;
+                }
+            }
 
-    }
 }
