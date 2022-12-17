@@ -16,5 +16,10 @@ namespace MiddleTest
         }
     }
 
+    class Circle : IShape
+    {
+        public double radius;
+        public double ar;
 
+    }
 }
