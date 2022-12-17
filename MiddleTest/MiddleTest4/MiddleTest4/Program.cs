@@ -18,5 +18,8 @@ namespace midT
             return a*b;
         }
     }
+    internal class Test3
+    {
 
+    }
 }
