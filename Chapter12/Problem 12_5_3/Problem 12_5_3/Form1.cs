@@ -27,8 +27,6 @@ namespace Problem_12_5_3
             e.Graphics.DrawImage(img, rb, zoomImgRect, GraphicsUnit.Pixel);
         }
 
-
-
         private void Form1_MouseUp(object sender, MouseEventArgs e)
         {
             Graphics g = CreateGraphics();
