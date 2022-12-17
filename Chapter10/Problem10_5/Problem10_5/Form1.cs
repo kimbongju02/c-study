@@ -27,6 +27,9 @@ namespace Ex5_10_6_7
             }
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
 
+        }
     }
 }
