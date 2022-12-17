@@ -27,6 +27,7 @@ namespace Ex1_Menu
             listBox1.Items.Add(((ToolStripMenuItem)sender).Text);
         }
 
+        private void 닫기CToolStripMenuItem_Click(object sender, EventArgs e)
         {
             listBox1.Items.Add(((ToolStripMenuItem)sender).Text);
         }
