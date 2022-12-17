@@ -1,0 +1,11 @@
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter10\Ex4_10_6_6\bin\Debug\Ex4_10_6_6.exe.config
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter10\Ex4_10_6_6\bin\Debug\Ex4_10_6_6.exe
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter10\Ex4_10_6_6\bin\Debug\Ex4_10_6_6.pdb
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter10\Ex4_10_6_6\obj\Debug\Ex4_10_6_6.csproj.AssemblyReference.cache
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter10\Ex4_10_6_6\obj\Debug\Ex4_10_6_6.csproj.SuggestedBindingRedirects.cache
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter10\Ex4_10_6_6\obj\Debug\Ex4_10_6_6.Form1.resources
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter10\Ex4_10_6_6\obj\Debug\Ex4_10_6_6.Properties.Resources.resources
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter10\Ex4_10_6_6\obj\Debug\Ex4_10_6_6.csproj.GenerateResource.cache
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter10\Ex4_10_6_6\obj\Debug\Ex4_10_6_6.csproj.CoreCompileInputs.cache
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter10\Ex4_10_6_6\obj\Debug\Ex4_10_6_6.exe
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter10\Ex4_10_6_6\obj\Debug\Ex4_10_6_6.pdb
