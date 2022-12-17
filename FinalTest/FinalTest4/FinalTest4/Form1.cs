@@ -22,5 +22,10 @@ namespace Problem3
             textBox1.Text=(int.Parse(listBox1.Text)+int.Parse(listBox2.Text)).ToString();
         }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Close();  
+        
+        }
     }
 }
