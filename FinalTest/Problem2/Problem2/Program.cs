@@ -40,7 +40,11 @@ namespace Problem1
             Console.Write("Read OP from keyboard ? : ");
             OP = int.Parse(Console.ReadLine());
             Console.Write("Read int  data(1) from keyboard : ");
+            int_indata_1 = int.Parse(Console.ReadLine());
+            Console.Write("Read int  data(2) from keyboard : ");
+            int_indata_2 = int.Parse(Console.ReadLine());
 
+            Console.WriteLine(intConn.Connent(OP, int_indata_1, int_indata_2));
         }
     }
 }
