@@ -18,5 +18,9 @@ namespace midT
             Push(a);
         }
     }
+    class EventHandlerClass
+        {
+
+        }
 
 }
