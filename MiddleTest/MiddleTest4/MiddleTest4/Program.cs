@@ -7,5 +7,13 @@ using System.Threading.Tasks;
 namespace midT
 {
     public delegate double Calc_Delegate(double a, double b);
+    class Add_Mul
+    {
+        public double Calc_Add(double a, double b)
+        {
+            return a+b;
+        }
+
+    }
 
 }
