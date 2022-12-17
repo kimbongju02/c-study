@@ -22,6 +22,11 @@ namespace midT
             int result;
             IA class_ia = new IA();
 
+            Console.Write("First Operand => ");
+            int a = int.Parse(Console.ReadLine());
+            Console.Write("Second Operand => ");
+            int b = int.Parse(Console.ReadLine());
+
 
         }
     }
