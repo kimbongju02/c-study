@@ -43,6 +43,13 @@ namespace Problem4
                 int rnd_seed = Convert.ToInt32(seed); ;
                 Random rndSeed = new Random(rnd_seed);//정해진 시드로 랜덤값 생성
                 int result_temp = 1;//곱셈의 결과값 저장
+                for (int i = 0; i<4; i++)
+                {
+                    int intRandom = rndSeed.Next(6, 100);//6에서 99 사이의 랜덤값
+                    rnd_data[i] = intRandom;
+                    result_temp*=intRandom;
+                    Thread.Sleep(1000);//1초씩 대기
+                }
 
     }
 }
