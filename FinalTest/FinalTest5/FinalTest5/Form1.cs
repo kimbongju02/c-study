@@ -54,5 +54,10 @@ namespace Problem4
             }
         }
 
-    }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            ThreadApp obj = new ThreadApp();//객체 생성
+            Thread t = new Thread(obj.threadProd);//델리게이트 생성없이 스레드객체 생성
+            t.Start(textBox1.Text);//스레드 생성
+
 }
