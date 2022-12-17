@@ -29,6 +29,10 @@ namespace MiddleTest
             get { return radius; }
             set { radius=value; }
         }
-}
-    }
+        public double Ar// 면적 저장
+        {
+            get { return ar; }
+            set { ar=value; }
+        }
+
 }
