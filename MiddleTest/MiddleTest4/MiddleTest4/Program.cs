@@ -6,5 +6,6 @@ using System.Threading.Tasks;
 
 namespace midT
 {
+    public delegate double Calc_Delegate(double a, double b);
 
 }
