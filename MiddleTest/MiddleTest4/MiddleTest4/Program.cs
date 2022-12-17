@@ -24,6 +24,10 @@ namespace midT
         {
             double a, b, sum, mul;
 
+            Console.Write("First Input data => ");
+            a = double.Parse(Console.ReadLine());
+            Console.Write("Second input data => ");
+            b = double.Parse(Console.ReadLine());
 
         }
     }
