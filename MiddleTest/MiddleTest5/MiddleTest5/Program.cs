@@ -31,6 +31,12 @@ namespace midT
         }
     internal class Test4
     {
-
+        static void Main(string[] args)
+        {
+            Button button = new Button();// 객체 생성
+            EventHandlerClass obj = new EventHandlerClass();// 이벤트 처리기를 포함한 객체 생성
+            button.Push += new MyEventHandler(obj.print);// 이벤트와 이벤트 처리기 연결
+            button.OnPush();
+        }
     }
 }
