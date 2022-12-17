@@ -9,6 +9,8 @@ namespace midT
     public delegate void MyEventHandler(int k);
     class Button
     {
+        int a;
+        public event MyEventHandler Push;
 
     }
 
