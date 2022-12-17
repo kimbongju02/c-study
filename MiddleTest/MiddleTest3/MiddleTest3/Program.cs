@@ -17,6 +17,12 @@ namespace midT
         {
             return ia.a+ia.b;
         }
+        public static void Main(String[] args)
+        {
+            int result;
+            IA class_ia = new IA();
 
+
+        }
     }
 }
