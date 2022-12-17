@@ -40,5 +40,8 @@ namespace MiddleTest
         }
     }
 
+    internal class Program
+    {
 
+    }
 }
