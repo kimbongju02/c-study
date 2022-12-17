@@ -17,11 +17,11 @@ namespace Ex1_Menu
             InitializeComponent();
         }
 
+        private void didiToolStripMenuItem_Click(object sender, EventArgs e)
         {
             listBox1.Items.Add(((ToolStripMenuItem)sender).Text);
         }
 
-        private void 열기OToolStripMenuItem_Click(object sender, EventArgs e)
         {
             listBox1.Items.Add(((ToolStripMenuItem)sender).Text);
         }
