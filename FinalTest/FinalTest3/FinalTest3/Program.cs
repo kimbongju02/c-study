@@ -53,3 +53,10 @@ namespace Problem2
             Thread t = new Thread(obj.threadProd);//델리게이트 생성없이 스레드객체 생성
             t.Start(args[0]);//스레드 생성
 
+            Console.WriteLine("Seed value for Random class = {0}",args[0]);
+            t.Join();//스레드 종료
+            Console.WriteLine("the accumulated produunt = {0} * {1} * {2} * {3} = {4}", obj[0],
+                obj[1], obj[2], obj[3], obj.PROD);
+        }
+    }
+}
