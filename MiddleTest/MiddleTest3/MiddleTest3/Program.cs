@@ -27,7 +27,10 @@ namespace midT
             Console.Write("Second Operand => ");
             int b = int.Parse(Console.ReadLine());
 
-
+            class_ia.a = a;
+            class_ia.b = b;
+            result = class_sum(class_ia);
+            Console.WriteLine($"a+b ={class_ia.a}+{class_ia.b}={result}");
         }
     }
 }
