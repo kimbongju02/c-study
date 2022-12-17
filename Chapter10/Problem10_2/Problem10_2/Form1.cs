@@ -28,6 +28,7 @@ namespace Ex2_Mouse
             textBox1.Text = (e.Delta > 0 ? num++ : num--).ToString();
         }
 
+        private void button1_Click(object sender, EventArgs e)
         {
             num=0;
             textBox1.Text = num.ToString();
