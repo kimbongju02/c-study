@@ -20,6 +20,11 @@ namespace midT
     }
     internal class Test3
     {
+        public static void Main(String[] args)
+        {
+            double a, b, sum, mul;
 
+
+        }
     }
 }
