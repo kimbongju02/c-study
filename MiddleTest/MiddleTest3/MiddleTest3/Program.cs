@@ -6,5 +6,10 @@ using System.Threading.Tasks;
 
 namespace midT
 {
+    class IA
+    {
+        public int a;
+        public int b;
+    }
 
 }
