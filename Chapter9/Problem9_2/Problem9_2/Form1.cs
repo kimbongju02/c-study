@@ -22,6 +22,7 @@ namespace problem9_6_4
         {
             openFileDialog1.InitialDirectory = @"C:\";
             openFileDialog1.Filter = "텍스트 파일(*.txt)|*.txt|모든 파일(*.*)|*.*";
+            openFileDialog1.FilterIndex = 1; //Filter 프로퍼티의 현재 Index 
             openFileDialog1.RestoreDirectory = true;
             openFileDialog1.ShowDialog(); //파일 열기 대화상자 - modal로 띄우기
 
