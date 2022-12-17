@@ -50,6 +50,9 @@ namespace Problem4
                     result_temp*=intRandom;
                     Thread.Sleep(1000);//1초씩 대기
                 }
+                prod = result_temp;
+            }
+        }
 
     }
 }
