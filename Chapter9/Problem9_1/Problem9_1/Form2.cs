@@ -17,6 +17,9 @@ namespace problem9_6_3
             InitializeComponent();
         }
 
-
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }
