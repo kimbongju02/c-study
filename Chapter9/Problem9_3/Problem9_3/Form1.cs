@@ -17,8 +17,8 @@ namespace problem9_6_5
             InitializeComponent();
         }
 
+        private void button1_Click(object sender, EventArgs e)
         {
-            if (checkBox1.Checked==true &&checkBox2.Checked==false)
             {
                 fontDialog1.ShowColor=false; //font color change combobex delete
                 fontDialog1.ShowApply=true; //apply button create
