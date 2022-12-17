@@ -18,7 +18,9 @@ namespace problem7_4
         }
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
-("버튼");
+        {
+            listBox1.Items.Clear();
+            listBox1.Items.Add("버튼");
             listBox1.Items.Add("체크 상자");
             listBox1.Items.Add("라디오 버튼");
         }
