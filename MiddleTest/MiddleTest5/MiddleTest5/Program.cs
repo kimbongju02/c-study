@@ -20,7 +20,10 @@ namespace midT
     }
     class EventHandlerClass
         {
+            public void print(int k)
+            {
 
+            }
         }
 
 }
