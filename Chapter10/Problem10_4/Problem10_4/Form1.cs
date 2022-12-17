@@ -18,7 +18,22 @@ namespace Ex4_10_6_6
             InitializeComponent();
         }
 
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if(e.Alt || e.Control || e.Shift)
+            {
+                if (e.Alt&&e.KeyCode.ToString()!="Menu")
+                    MessageBox.Show(e.KeyCode + " + Alt", title);
+                else if (e.Control&&e.KeyCode.ToString()!="ControlKey")
+                    MessageBox.Show(e.KeyCode + " + Control", title);
+                else if (e.Shift&&e.KeyCode.ToString()!="ShiftKey")
+                    MessageBox.Show(e.KeyCode + " + Shift", title);
+            }
+            else
+                MessageBox.Show(e.KeyCode.ToString(), title);
 
+
+        }
 
         private void Form1_Load(object sender, EventArgs e)
         {
