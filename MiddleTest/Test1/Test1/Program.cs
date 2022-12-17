@@ -34,5 +34,11 @@ namespace MiddleTest
             get { return ar; }
             set { ar=value; }
         }
+        public void PrintCircleArea()// 반지름, 면적 출력
+        {
+            Console.WriteLine($"Circle Area: Radius ={radius}, Area ={Ar}");
+        }
+    }
+
 
 }
