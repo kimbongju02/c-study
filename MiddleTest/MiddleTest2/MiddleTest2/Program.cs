@@ -14,7 +14,12 @@ namespace midT
             double b = double.Parse(args[1]);
             double c = double.Parse(args[2]);
 
-
+            if (a.Equals("+"))
+                Console.WriteLine($"{b} {a} {c} = {b+c}");
+            else if (a.Equals("*"))
+                Console.WriteLine($"{b} {a} {c} = {b*c}");
+            else
+                Console.WriteLine("잘못된 연산자");
 
         }
     }
