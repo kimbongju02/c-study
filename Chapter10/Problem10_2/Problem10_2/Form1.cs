@@ -23,11 +23,11 @@ namespace Ex2_Mouse
         {
             this.MouseWheel += new MouseEventHandler(this.Form1_MouseWheel);
         }
+        private void Form1_MouseWheel(object sender, MouseEventArgs e)
         {
             textBox1.Text = (e.Delta > 0 ? num++ : num--).ToString();
         }
 
-        private void button1_Click(object sender, EventArgs e)
         {
             num=0;
             textBox1.Text = num.ToString();
