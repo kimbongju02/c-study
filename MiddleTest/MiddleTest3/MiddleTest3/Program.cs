@@ -13,6 +13,10 @@ namespace midT
     }
     internal class Test2
     {
+        static int class_sum(IA ia)
+        {
+            return ia.a+ia.b;
+        }
 
     }
 }
