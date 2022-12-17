@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Chapter8
 {
-    public partial class Form1 : For
+    public partial class Form1 : Form
     {
         public Form1()
         {
