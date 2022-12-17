@@ -17,5 +17,9 @@ namespace Problem4
         {
             InitializeComponent();
         }
+        class ThreadApp
+        {
+            private int[] rnd_data = new int[4];
+            private int prod;
 
 }
