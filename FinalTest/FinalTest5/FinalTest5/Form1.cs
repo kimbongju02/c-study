@@ -60,4 +60,11 @@ namespace Problem4
             Thread t = new Thread(obj.threadProd);//델리게이트 생성없이 스레드객체 생성
             t.Start(textBox1.Text);//스레드 생성
 
+            t.Join();//스레드 종료
+            String print = ($"the accumulated produunt = {obj[0]} * {obj[1]} * {obj[2]} * {obj[3]} = {obj.PROD}");
+            MessageBox.Show(print);
+
+        }
+
+    }
 }
