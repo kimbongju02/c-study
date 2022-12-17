@@ -7,5 +7,9 @@ using System.Threading.Tasks;
 namespace midT
 {
     public delegate void MyEventHandler(int k);
+    class Button
+    {
+
+    }
 
 }
