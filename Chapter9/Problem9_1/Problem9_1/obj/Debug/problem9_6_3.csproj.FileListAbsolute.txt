@@ -1,0 +1,13 @@
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter9\problem9_6_3\bin\Debug\problem9_6_3.exe.config
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter9\problem9_6_3\bin\Debug\problem9_6_3.exe
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter9\problem9_6_3\bin\Debug\problem9_6_3.pdb
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter9\problem9_6_3\obj\Debug\problem9_6_3.csproj.AssemblyReference.cache
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter9\problem9_6_3\obj\Debug\problem9_6_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter9\problem9_6_3\obj\Debug\problem9_6_3.Form1.resources
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter9\problem9_6_3\obj\Debug\problem9_6_3.Form2.resources
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter9\problem9_6_3\obj\Debug\problem9_6_3.Form3.resources
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter9\problem9_6_3\obj\Debug\problem9_6_3.Properties.Resources.resources
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter9\problem9_6_3\obj\Debug\problem9_6_3.csproj.GenerateResource.cache
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter9\problem9_6_3\obj\Debug\problem9_6_3.csproj.CoreCompileInputs.cache
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter9\problem9_6_3\obj\Debug\problem9_6_3.exe
+C:\Users\kimbo\OneDrive\바탕 화면\2-2수업\비주얼프로그래밍\code\Chapter9\problem9_6_3\obj\Debug\problem9_6_3.pdb
