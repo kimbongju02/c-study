@@ -29,5 +29,8 @@ namespace midT
                 Console.WriteLine();
             }
         }
+    internal class Test4
+    {
 
+    }
 }
