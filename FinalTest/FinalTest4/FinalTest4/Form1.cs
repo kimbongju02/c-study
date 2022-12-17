@@ -17,6 +17,10 @@ namespace Problem3
             InitializeComponent();
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            textBox1.Text=(int.Parse(listBox1.Text)+int.Parse(listBox2.Text)).ToString();
+        }
 
     }
 }
