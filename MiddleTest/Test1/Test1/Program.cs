@@ -42,6 +42,14 @@ namespace MiddleTest
 
     internal class Program
     {
-
+        static void Main(String[] args)
+        {
+            Console.Write("원의 반지름 입력(double형) > ");
+            double a = double.Parse(Console.ReadLine());
+            IShape cir = new Circle();// 업캐스팅
+            cir.Radius = a;
+            cir.CalArea();
+            ((Circle)cir).PrintCircleArea();
+        }
     }
 }
