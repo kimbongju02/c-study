@@ -31,6 +31,9 @@ namespace Problem1
             Console.Write("Read OP from keyboard ? : ");
             OP = int.Parse(Console.ReadLine());
             Console.Write("Read double data(1) from keyboard : ");
+            double_indata_1 = double.Parse(Console.ReadLine());
+            Console.Write("Read double data(2) from keyboard : ");
+            double_indata_2 = double.Parse(Console.ReadLine());
 
         }
     }
