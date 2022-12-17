@@ -28,6 +28,9 @@ namespace Problem1
             CONN<int> intConn = new CONN<int>();
             CONN<double> doubleConn = new CONN<double>();
 
+            Console.Write("Read OP from keyboard ? : ");
+            OP = int.Parse(Console.ReadLine());
+            Console.Write("Read double data(1) from keyboard : ");
 
         }
     }
