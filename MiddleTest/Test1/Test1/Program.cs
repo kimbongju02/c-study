@@ -24,6 +24,11 @@ namespace MiddleTest
         {
             Ar=Math.PI*radius*radius;
         }
-
+        public double Radius// 반지름 저장
+        {
+            get { return radius; }
+            set { radius=value; }
+        }
+}
     }
 }
