@@ -13,7 +13,10 @@ namespace midT
         {
             return a+b;
         }
-
+        public double Calc_Mul(double a, double b)
+        {
+            return a*b;
+        }
     }
 
 }
