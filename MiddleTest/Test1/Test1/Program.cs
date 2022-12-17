@@ -6,5 +6,15 @@ using System.Threading.Tasks;
 
 namespace MiddleTest
 {
+    interface IShape
+    {
+        void CalArea();
+        double Radius
+        {
+            get;
+            set;
+        }
+    }
+
 
 }
