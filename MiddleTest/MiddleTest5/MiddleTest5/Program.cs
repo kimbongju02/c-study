@@ -22,7 +22,11 @@ namespace midT
         {
             public void print(int k)
             {
-
+                for (int i = 0; i <= k; i++)
+                {
+                    Console.Write("i= {0}, ", i);
+                }
+                Console.WriteLine();
             }
         }
 
